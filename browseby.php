@@ -208,7 +208,6 @@
 <!-- footer section starts  -->
 
 <section class="footer">
-
    <div class="box-container">
 
    <div class="box">
@@ -221,11 +220,11 @@
       </div>
 
       <div class="box">
-         <h3>extra links</h3>
-         <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
+         <h3>follow us</h3>
+         <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
+         <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
+         <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
+         <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
       </div>
 
       <div class="box">
@@ -236,30 +235,13 @@
          <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
       </div>
 
-      <div class="box">
-         <h3>follow us</h3>
-         <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
-         <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
-         <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
-         <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
-      </div>
-
    </div>
 
-   <div class="credit"> created by <span>mr. web designer</span> | all rights reserved! </div>
+   <div class="credit"> copyright <span>skuycation</span> | all rights reserved! </div>
 
 </section>
 
 <!-- footer section ends -->
-
-
-
-
-
-
-
-
-
 <!-- swiper js link  -->
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
 
