@@ -1,6 +1,6 @@
 <?php
 
-   $connection = mysqli_connect('localhost','root','','skuycation');
+   $connection = mysqli_connect('localhost','root','','skuycation_backend');
 
    if(isset($_POST['send'])){
       $name = $_POST['name'];

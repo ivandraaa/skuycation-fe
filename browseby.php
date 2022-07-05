@@ -36,17 +36,14 @@
 
 </section>
 
-<!-- header section ends -->
-
-<div class="heading" style="background:url(images/header-bg-2.png) no-repeat">
-   <h1>packages</h1>
-</div>
 
 <!-- packages section starts  -->
 
 <section class="packages">
 
-   <h1 class="heading-title">top destinations</h1>
+   <div class="div-cont">
+      <h3 class="heading-bwa">Pilih Kota Tujuan Wisata Anda</h3>
+   </div>
 
    <div class="box-container">
 
@@ -55,8 +52,8 @@
             <img src="images/img-1.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Hotel Alila</h3>
+            <p>Surakarta, Indonesia</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
