@@ -86,7 +86,15 @@ section{
    margin-bottom: 3rem;
    font-size: 6rem;
    text-transform: uppercase;
-   color:var(--black);
+   color:#152C5B;
+}
+
+.heading-bwa{
+   text-align: center;
+   margin-bottom: 3rem;
+   font-size: 6rem;
+   text-transform: capitalize;
+   color:#152C5B;
 }
 
 .header{
@@ -443,7 +451,7 @@ section{
 }
 
 .packages .box-container .box{
-   border:var(--border);
+   border:#B0B0B0;
    box-shadow: var(--box-shadow);
    background: var(--white);
    display: none;
@@ -596,6 +604,12 @@ section{
    color:var(--main-color);
 }
 
+.div-cont{
+   width:200px;
+   height: 190px;
+   margin: auto;
+   width: 50%;
+}
 
 b {
    color: #3252DF;
