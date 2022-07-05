@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
 
 :root{
-   --main-color:#8e44ad;
+   --main-color:#74b9ff;
    --black:#222;
    --white:#fff;
    --light-black:#777;
@@ -9,8 +9,8 @@
    --dark-bg:rgba(0,0,0,.7);
    --light-bg:#eee;
    --border:.1rem solid var(--black);
-   --box-shadow:0 .5rem 1rem rgba(0,0,0,.1);
-   --text-shadow:0 1.5rem 3rem rgba(0,0,0,.3);
+   --box-shadow:0 .5rem 1rem rgba(0,0,0,.2);
+   --text-shadow:0 1.5rem 3rem rgba(0,0,0,.1);
 }
 
 *{
@@ -78,7 +78,7 @@ section{
 }
 
 .btn:hover{
-   background: var(--main-color);
+   background: #152C5B;
 }
 
 .heading-title{
@@ -144,7 +144,7 @@ section{
    justify-content: center;
    background-size: cover !important;
    background-position: center !important;
-   min-height: 60rem;
+   min-height: 40rem;
 }
 
 .home .slide .content{
@@ -158,20 +158,19 @@ section{
 
 .home .slide .content span{
    display: block;
-   font-size: 2.2rem;
-   color: var(--light-white);
+   font-size: 3rem;
+   color: #152C5B;
    padding-bottom: 1rem;
    animation:fadeIn .2s linear backwards .2s;
 }
 
 .home .slide .content h3{
    font-size: 6vw;
-   color:var(--white);
+   color: #152C5B;
    text-transform: uppercase;
    line-height: 1;
    text-shadow: var(--text-shadow);
    padding:1rem 0;
-   animation:fadeIn .2s linear backwards .4s;
 }
 
 .home .slide .content .btn{
@@ -219,7 +218,7 @@ section{
 }
 
 .services .box-container .box:hover{
-   background: var(--black);
+   background: #3252DF;
 }
 
 .services .box-container .box img{
@@ -322,7 +321,7 @@ section{
    text-align: center;
 }
 
-.home-offer .content{
+.home-offer .swiper-slide{
    max-width:70rem;
    margin:0 auto;
 }
@@ -612,7 +611,13 @@ section{
    width: 50%;
 }
 
+b {
+   color: #3252DF;
+}
 
+c {
+   color: #152C5B;
+}
 
 
 
