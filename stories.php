@@ -4,7 +4,8 @@
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>about</title>
+   <title>Stories | Skuycation</title>
+   <link rel="shortcut icon" href="images/icon-logo.png">
 
    <!-- swiper css link  -->
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -22,7 +23,9 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">travel.</a>
+   <a href="home.php" class="logo">
+      <b>Skuy</b><c>cation.</c>
+   </a>
 
    <nav class="navbar">
       <a href="home.php">home</a>
@@ -193,10 +196,9 @@
 
       <div class="box">
          <h3>contact info</h3>
-         <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
-         <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
+         <a href="#"> <i class="fas fa-phone"></i> +62 812-2378-0410 </a>
+         <a href="#"> <i class="fas fa-envelope"></i> skuycation@skuy.com </a>
+         <a href="#"> <i class="fas fa-map"></i> Jawa Tengah, Surakarta - Banyuanyar </a>
       </div>
 
    </div>
@@ -206,14 +208,6 @@
 </section>
 
 <!-- footer section ends -->
-
-
-
-
-
-
-
-
 
 <!-- swiper js link  -->
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>

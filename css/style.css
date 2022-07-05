@@ -211,6 +211,7 @@ section{
 
 .services .box-container .box:hover{
    background: #3252DF;
+   color:var(--white);
 }
 
 .services .box-container .box img{
@@ -218,7 +219,7 @@ section{
 }
 
 .services .box-container .box h3{
-   color:var(--white);
+   color: #152C5B;
    font-size: 1.7rem;
    padding-top: 1rem;
 }
@@ -538,15 +539,6 @@ section{
 .booking .book-form .btn{
    margin-top: 2rem;
 }
-
-
-
-
-
-
-
-
-
 
 .footer{
    background: url(../images/footer-bg.jpg) no-repeat;
