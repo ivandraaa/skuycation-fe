@@ -117,7 +117,7 @@
             <div class="content">
                <h3>Sheraton Grand</h3>
                <p>Surakarta, Indonesia</p>
-               <a href="detail_1.php" class="btn">lihat detail</a>
+               <a href="detail_browseby/detail_1.php" class="btn">lihat detail</a>
             </div>
          </div>
 
@@ -185,7 +185,7 @@
             </div>
          </div>
       </div>
-      <div class="load-more"> <a href="./detail_browseby/detail_1.php" class="btn">lihat selengkapnya</a> </div>
+      <div class="load-more"> <a href="browseby.php" class="btn">lihat selengkapnya</a> </div>
    </section>
    <!-- Sec-2 -->
 

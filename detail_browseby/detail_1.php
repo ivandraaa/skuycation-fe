@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
     <!-- custom css file link  -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="/css/style.css">
 
 </head>
 <body>
@@ -28,11 +28,11 @@
     </a>
 
     <nav class="navbar">
-        <a href="home.php">home</a>
-        <a href="browseby.php">Browse By</a>
-        <a href="event.php">Event</a>
-        <a href="book.php">book</a>
-        <a href="stories.php">stories</a>
+        <a href="/home.php">home</a>
+        <a href="/browseby.php">Browse By</a>
+        <a href="/event.php">Event</a>
+        <a href="/book.php">book</a>
+        <a href="/stories.php">stories</a>
     </nav>
 
     <div id="menu-btn" class="fas fa-bars"></div>
@@ -45,16 +45,16 @@
 <h1 class="heading-title-detail"> Sheraton Grand </h1>
 <section class="home-about">
     <div class="image">
-        <img src="images/hotel/sheraton.svg" alt="">
+        <img src="/images/hotel/sheraton.svg" alt="">
     </div>
     &emsp;
     <div class="content">
         <h3>Fasilitas</h3>
         <p>Berikut merupakan fasilitas yang tersedia di hotel ini :</p>
-        <img style="padding-right: 1em" src="images/hotel/ic_ac.svg" alt="">
-        <img style="padding-right: 1em" src="images/hotel/ic_kulkas.svg" alt="">
-        <img style="padding-right: 1em" src="images/hotel/ic_tv.svg" alt="">
-        <img style="padding-right: 1em" src="images/hotel/ic_wifi.svg" alt=""><br><br>
+        <img style="padding-right: 1em" src="/images/hotel/ic_ac.svg" alt="">
+        <img style="padding-right: 1em" src="/images/hotel/ic_kulkas.svg" alt="">
+        <img style="padding-right: 1em" src="/images/hotel/ic_tv.svg" alt="">
+        <img style="padding-right: 1em" src="/images/hotel/ic_wifi.svg" alt=""><br><br>
         <a href="book.php" class="btn">book now</a>
     </div>
 </section>
@@ -71,7 +71,7 @@
 
             <div class="box">
                 <div class="image">
-                <img src="images/hotel/greenpark.svg" alt="">
+                <img src="/images/event/solo-batik-carnival.svg" alt="">
                 </div>
                 <div class="content">
                 <h3>Solo Batik Karnival</h3>
@@ -82,7 +82,7 @@
 
             <div class="box">
                 <div class="image">
-                <img src="images/hotel/cakra.svg" alt="">
+                <img src="/images/event/upacara-sekaten.svg" alt="">
                 </div>
                 <div class="content">
                 <h3>Sekaten</h3>
@@ -93,7 +93,7 @@
             
             <div class="box">
                 <div class="image">
-                <img src="images/hotel/silver.svg" alt="">
+                <img src="/images/event/Pasar-malam-solo.svg" alt="">
                 </div>
                 <div class="content">
                 <h3>Pasar Malam</h3>
