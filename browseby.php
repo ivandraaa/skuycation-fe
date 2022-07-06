@@ -57,83 +57,124 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-1.jpg" alt="">
+            <img src="images/browseby/alila.svg" alt="">
          </div>
          <div class="content">
             <h3>Hotel Alila</h3>
             <p>Surakarta, Indonesia</p>
-            <p class="harga">Harga : Rp.200.000 / Malam</p>
-            <a href="book.php" class="btn">book now</a>
+            <p class="harga">Harga : Rp.900.000 / Malam</p>
+            <a href="detail_browseby/detail_1.php" class="btn">lihat detail</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-2.jpg" alt="">
+            <img src="images/browseby/pop.svg" alt="">
          </div>
          <div class="content">
-            <h3>Hotel Alila</h3>
+            <h3>POP Hotel Solo</h3>
             <p>Surakarta, Indonesia</p>
             <p class="harga">Harga : Rp.200.000 / Malam</p>
-            <a href="book.php" class="btn">book now</a>
+            <a href="book.php" class="btn">lihat detail</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-3.jpg" alt="">
+            <img src="images/hotel/greenpark.svg" alt="">
          </div>
          <div class="content">
-            <h3>Hotel Alila</h3>
+            <h3>Green Park</h3>
             <p>Surakarta, Indonesia</p>
-            <p class="harga">Harga : Rp.200.000 / Malam</p>
-            <a href="book.php" class="btn">book now</a>
+            <p class="harga">Harga : Rp.400.000 / Malam</p>
+            <a href="book.php" class="btn">lihat detail</a>
          </div>
       </div>
    </div>
    <div class="div-sekat">
       <img src="images/icon-3.svg" alt="">
-      <h3 class="heading-sekat">Kota Surakarta</h3>
+      <h3 class="heading-sekat">Kota Denpasar</h3>
    </div>
    <div class="box-container">
 
       <div class="box">
          <div class="image">
-            <img src="images/img-1.jpg" alt="">
+            <img src="images/browseby/balitrue.svg" alt="">
          </div>
          <div class="content">
-            <h3>Hotel Alila</h3>
-            <p>Surakarta, Indonesia</p>
-            <p class="harga">Harga : Rp.200.000 / Malam</p>
-            <a href="book.php" class="btn">book now</a>
+            <h3>Bali True Living</h3>
+            <p>Denpasar, Indonesia</p>
+            <p class="harga">Harga : Rp.700.000 / Malam</p>
+            <a href="book.php" class="btn">lihat detail</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-2.jpg" alt="">
+            <img src="images/hotel/cakra.svg" alt="">
          </div>
          <div class="content">
-            <h3>Hotel Alila</h3>
-            <p>Surakarta, Indonesia</p>
-            <p class="harga">Harga : Rp.200.000 / Malam</p>
-            <a href="book.php" class="btn">book now</a>
+            <h3>Grand Cakra Hotel</h3>
+            <p>Denpasar, Indonesia</p>
+            <p class="harga">Harga : Rp.600.000 / Malam</p>
+            <a href="book.php" class="btn">lihat detail</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-3.jpg" alt="">
+            <img src="images/browseby/dcarik.svg" alt="">
          </div>
          <div class="content">
-            <h3>Hotel Alila</h3>
-            <p>Surakarta, Indonesia</p>
-            <p class="harga">Harga : Rp.200.000 / Malam</p>
-            <a href="book.php" class="btn">book now</a>
+            <h3>Villa D'Carik Bali</h3>
+            <p>Denpasar, Indonesia</p>
+            <p class="harga">Harga : Rp.900.000 / Malam</p>
+            <a href="book.php" class="btn">lihat detail</a>
          </div>
       </div>
    </div>
+   <div class="div-sekat">
+      <img src="images/icon-3.svg" alt="">
+      <h3 class="heading-sekat">Kota Yogyakarta</h3>
+   </div>
+   <div class="box-container">
 
+      <div class="box">
+         <div class="image">
+            <img src="images/browseby/ambarukmo.svg" alt="">
+         </div>
+         <div class="content">
+            <h3>Yellow Ambarukmo</h3>
+            <p>Yogyakarta, Indonesia</p>
+            <p class="harga">Harga : Rp.600.000 / Malam</p>
+            <a href="book.php" class="btn">lihat detail</a>
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="image">
+            <img src="images/browseby/whiz.svg" alt="">
+         </div>
+         <div class="content">
+            <h3>Whiz Hotel</h3>
+            <p>Yogyakarta, Indonesia</p>
+            <p class="harga">Harga : Rp.800.000 / Malam</p>
+            <a href="book.php" class="btn">lihat detail</a>
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="image">
+            <img src="images/hotel/silver.svg" alt="">
+         </div>
+         <div class="content">
+            <h3>Silver Rain</h3>
+            <p>Yogyakarta, Indonesia</p>
+            <p class="harga">Harga : Rp.300.000 / Malam</p>
+            <a href="book.php" class="btn">lihat detail</a>
+         </div>
+      </div>
+   </div>
 </section>
 
 <!-- packages section ends -->
