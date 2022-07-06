@@ -76,20 +76,26 @@
 
    <div class="box-container">
 
-      <div class="box">
-      &emsp;&emsp;&emsp;<img src="images/icon-1.svg" alt="">
-         <h3><span>100 Titik Wisata</h3>
-      </div>
+      <a href="browseby.php">
+         <div class="box">
+         &emsp;&emsp;&emsp;<img src="images/icon-1.svg" alt="">
+            <h3>100 Titik Wisata</h3>
+         </div>
+      </a>
 
-      <div class="box">
-         <img src="images/icon-2.svg" alt="">
-         <h3>70 Event</h3>
-      </div>
+      <a href="event.php">
+         <div class="box">
+            <img src="images/icon-2.svg" alt="">
+            <h3>70 Event</h3>
+         </div>
+      </a>
 
-      <div class="box">
-      &emsp;&emsp;&emsp;<img src="images/icon-3.svg" alt="">
-         <h3>25 Kota</h3>
-      </div>
+      <a href="browseby.php">
+         <div class="box">
+         &emsp;&emsp;&emsp;<img src="images/icon-3.svg" alt="">
+            <h3>25 Kota</h3>
+         </div>
+      </a>
    </div>
 
 </section>

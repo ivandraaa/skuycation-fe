@@ -274,18 +274,20 @@ section{
 }
 
 .home-packages .box-container .box{
-   border:var(--border);
    box-shadow: var(--box-shadow);
    background: var(--white);
+   border-radius: 5%;
 }
 
 .home-packages .box-container .box:hover .image img{
    transform: scale(1.1);
+   border-radius: 1.8rem;
 }
 
 .home-packages .box-container .box .image{
    height: 25rem;
    overflow: hidden;
+   border-radius: 1.8rem;
 }
 
 .home-packages .box-container .box .image img{
@@ -293,6 +295,7 @@ section{
    width: 100%;
    object-fit: cover;
    transition: .2s linear;
+   border-radius: 1.8em;
 }
 
 .home-packages .box-container .box .content{
@@ -530,7 +533,7 @@ section{
 }
 
 .booking .book-form .flex .inputBox input:focus{
-   background: var(--black);
+   background: #152C5B;
    color:var(--white);
 }
 
