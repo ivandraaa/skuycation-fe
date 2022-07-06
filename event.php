@@ -62,7 +62,6 @@
          <div class="content">
             <h3>Hotel Alila</h3>
             <p>Surakarta, Indonesia</p>
-            <p class="harga">Harga : Rp.200.000 / Malam</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
@@ -74,7 +73,6 @@
          <div class="content">
             <h3>Hotel Alila</h3>
             <p>Surakarta, Indonesia</p>
-            <p class="harga">Harga : Rp.200.000 / Malam</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
@@ -86,7 +84,6 @@
          <div class="content">
             <h3>Hotel Alila</h3>
             <p>Surakarta, Indonesia</p>
-            <p class="harga">Harga : Rp.200.000 / Malam</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
