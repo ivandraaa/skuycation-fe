@@ -53,13 +53,12 @@
     &emsp;
     <div class="content">
         <h3>Deskripsi Event</h3>
+        <a class="btn-price-2">7 Juli 2022 - 20.00</a>
         <p>Solo Batik Carnival atau disebut Karnaval Batik Solo (SBC) adalah 
             sebuah acara tahunan yang diadakan oleh pemerintah Kota Surakarta 
             dengan menggunakan batik sebagai bahan utama pembuatan kostum. 
             Para peserta karnaval akan membuat kostum karnaval dengan tema-tema yang ditentukan. 
-            Para peserta akan mengenakan kostumnya sendiri dan berjalan di atas catwalk. 
-            Karnaval ini diadakan setiap tahun pada bulan 
-            Juni sejak tahun 2008.</p>
+            </p>
     
         <p>Parade ini akan dimulai di perempatan Purwosari dan berakhir di Balaikota Solo. 
             Masyarakat dapat menikmati parade ini secara gratis. Para pengunjung memadati 
@@ -69,53 +68,6 @@
 </section>
 
 <!-- home about section ends -->
-
-<!-- home packages section starts  -->
-
-    <!-- Sec-2 -->
-    
-    <section class="home-packages">
-    <h3 class="detail-event">Pilihan Event Yang Tersedia</h3>
-        <div class="box-container">
-
-            <div class="box">
-                <div class="image">
-                <img src="/images/event/solo-batik-carnival.svg" alt="">
-                </div>
-                <div class="content">
-                <h3>Solo Batik Karnival</h3>
-                <p>Surakarta, Indonesia</p>
-                <a href="book.php" class="btn">lihat detail</a>
-                </div>
-            </div>
-
-            <div class="box">
-                <div class="image">
-                <img src="/images/event/upacara-sekaten.svg" alt="">
-                </div>
-                <div class="content">
-                <h3>Sekaten</h3>
-                <p>Surakarta, Indonesia</p>
-                <a href="book.php" class="btn">lihat detail</a>
-                </div>
-            </div>
-            
-            <div class="box">
-                <div class="image">
-                <img src="/images/event/Pasar-malam-solo.svg" alt="">
-                </div>
-                <div class="content">
-                <h3>Pasar Malam</h3>
-                <p>Surakarta, Indonesia</p>
-                <a href="book.php" class="btn">lihat detail</a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Sec-2 -->
-
-
-<!-- home packages section ends -->
 
 <!-- footer section starts  -->
 

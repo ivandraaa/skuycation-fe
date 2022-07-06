@@ -55,43 +55,43 @@
       <div class="flex">
       <div class="inputBox">
             <span>nama hotel :</span>
-            <input type="text" placeholder="masukan nama hotel" name="nama_hotel" autocomplete="off">
+            <input type="text" placeholder="masukan nama hotel" name="nama_hotel" id="nama_hotel autocomplete="off">
          </div>
          <div class="inputBox">
             <span>tipe kamar :</span>
-            <input type="text" placeholder="masukan tipe kamar" name="tipe" autocomplete="off">
+            <input type="text" placeholder="masukan tipe kamar" name="tipe" id="tipe" autocomplete="off">
          </div>
          <div class="inputBox">
             <span>nama :</span>
-            <input type="text" placeholder="masukan nama anda" name="name" autocomplete="off">
+            <input type="text" placeholder="masukan nama anda" name="name" id="name" autocomplete="off">
          </div>
          <div class="inputBox">
             <span>email :</span>
-            <input type="email" placeholder="masukan email anda" name="email" autocomplete="off">
+            <input type="email" placeholder="masukan email anda" name="email" id="email" autocomplete="off">
          </div>
          <div class="inputBox">
             <span>telephone :</span>
-            <input type="number" placeholder="masukan nomor handphone anda" name="phone" autocomplete="off">
+            <input type="number" placeholder="masukan nomor handphone anda" name="phone" id="phone" autocomplete="off">
          </div>
          <div class="inputBox">
             <span>alamat :</span>
-            <input type="text" placeholder="masukan alamat" name="address" autocomplete="off">
+            <input type="text" placeholder="masukan alamat" name="address" id="address" autocomplete="off">
          </div>
          <div class="inputBox">
             <span>Kota tujuan :</span>
-            <input type="text" placeholder="kota yang anda kunjungi" name="location" autocomplete="off">
+            <input type="text" placeholder="kota yang anda kunjungi" name="location" id="location" autocomplete="off">
          </div>
          <div class="inputBox">
             <span>Jumlah tamu :</span>
-            <input type="number" placeholder="masukan jumlah tamu" name="guests" autocomplete="off">
+            <input type="number" placeholder="masukan jumlah tamu" name="guests" id="guests" autocomplete="off">
          </div>
          <div class="inputBox">
             <span>cek in :</span>
-            <input type="date" name="arrivals" autocomplete="off">
+            <input type="date" name="arrivals" id="arrivals" autocomplete="off">
          </div>
          <div class="inputBox">
             <span>cek out :</span>
-            <input type="date" name="leaving" autocomplete="off">
+            <input type="date" name="leaving" id="leaving" autocomplete="off">
          </div>
       </div>
 

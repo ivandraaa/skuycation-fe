@@ -89,6 +89,18 @@ section{
    border-radius:5rem;
 }
 
+.btn-price-2{
+   display: inline-block;
+   background: #32df46;
+   margin-top: 1rem;
+   color:var(--white);
+   font-size: 1.7rem;
+   padding:1rem 3rem;
+   border-radius:5rem;
+   width: auto;
+   height: 4.5rem;
+}
+
 .btn:hover{
    background: #152C5B;
 }
