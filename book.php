@@ -22,7 +22,6 @@
 <!-- header section starts  -->
 
 <section class="header">
-
    <a href="home.php" class="logo">
       <b>Skuy</b><c>cation.</c>
    </a>
