@@ -78,17 +78,17 @@
 
       <div class="box">
       &emsp;&emsp;&emsp;<img src="images/icon-1.svg" alt="">
-         <h3>Titik Wisata</h3>
+         <h3><span>100 Titik Wisata</h3>
       </div>
 
       <div class="box">
          <img src="images/icon-2.svg" alt="">
-         <h3>Event</h3>
+         <h3>70 Event</h3>
       </div>
 
       <div class="box">
       &emsp;&emsp;&emsp;<img src="images/icon-3.svg" alt="">
-         <h3>Kota</h3>
+         <h3>25 Kota</h3>
       </div>
    </div>
 
@@ -98,50 +98,91 @@
 
 <!-- home packages section starts  -->
 
-<section class="home-packages" id="rekomendasi">
+   <!-- Sec-1 -->
+   <section id="rekomendasi" class="home-packages">
+      <h1 class="heading-title"> Penginapan Paling Dicari </h1>
 
-   <h1 class="heading-title"> our packages </h1>
+      <div class="box-container">
 
-   <div class="box-container">
-
-      <div class="box">
-         <div class="image">
-            <img src="images/img-1.jpg" alt="">
+         <div class="box">
+            <div class="image">
+               <img src="images/hotel/sheraton.svg" alt="">
+            </div>
+            <div class="content">
+               <h3>Sheraton Grand</h3>
+               <p>Jakarta, Indonesia</p>
+               <a href="book.php" class="btn">book now</a>
+            </div>
          </div>
-         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
-            <a href="book.php" class="btn">book now</a>
+
+         <div class="box">
+            <div class="image">
+               <img src="images/hotel/ocean.svg" alt="">
+            </div>
+            <div class="content">
+               <h3>Ocean Land</h3>
+               <p>Bandung, Indonesia</p>
+               <a href="book.php" class="btn">book now</a>
+            </div>
+         </div>
+         
+         <div class="box">
+            <div class="image">
+               <img src="images/hotel/stark.svg" alt="">
+            </div>
+            <div class="content">
+               <h3>Stark House</h3>
+               <p>Malang, Indonesia</p>
+               <a href="book.php" class="btn">book now</a>
+            </div>
          </div>
       </div>
+   </section>
+   <!-- Sec-1 -->
 
-      <div class="box">
-         <div class="image">
-            <img src="images/img-2.jpg" alt="">
+   <!-- Sec-2 -->
+   <section class="home-packages">
+      <h1 class="heading-title"> Penginapan Halaman Luas </h1>
+
+      <div class="box-container">
+
+         <div class="box">
+            <div class="image">
+               <img src="images/hotel/greenpark.svg" alt="">
+            </div>
+            <div class="content">
+               <h3>Green Park</h3>
+               <p>Tangerang, Indonesia</p>
+               <a href="book.php" class="btn">book now</a>
+            </div>
          </div>
-         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
-            <a href="book.php" class="btn">book now</a>
+
+         <div class="box">
+            <div class="image">
+               <img src="images/hotel/cakra.svg" alt="">
+            </div>
+            <div class="content">
+               <h3>Grand Cakra Hotel</h3>
+               <p>Malang, Indonesia</p>
+               <a href="book.php" class="btn">book now</a>
+            </div>
+         </div>
+         
+         <div class="box">
+            <div class="image">
+               <img src="images/hotel/silver.svg" alt="">
+            </div>
+            <div class="content">
+               <h3>SIlver Rain</h3>
+               <p>Bandung Indonesia</p>
+               <a href="book.php" class="btn">book now</a>
+            </div>
          </div>
       </div>
-      
-      <div class="box">
-         <div class="image">
-            <img src="images/img-3.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
+      <div class="load-more"> <a href="browseby.php" class="btn">lihat selengkapnya</a> </div>
+   </section>
+   <!-- Sec-2 -->
 
-   </div>
-
-   <div class="load-more"> <a href="browseby.php" class="btn">lihat selengkapnya</a> </div>
-
-</section>
 
 <!-- home packages section ends -->
 
@@ -155,7 +196,7 @@
    <div class="content">
       <h3>Stories</h3>
       <p>Dapatkan penawaran hotel dari kami, dan segera jelajahi wisata di Indonesia.
-         Lihat review mereka yang sudah menggunakan SKuycation sebagai tempat mencari hotel dan berwisata
+         Lihat review mereka yang sudah menggunakan Skuycation sebagai tempat mencari hotel dan berwisata
       </p>
       <a href="stories.php" class="btn">lihat selengkapnya</a>
    </div>

@@ -215,13 +215,12 @@ section{
 .services .box-container .box{
    padding:3rem 2rem;
    text-align: center;
-   background: var(--main-color);
+   background: #00cec9;
    cursor: pointer;
 }
 
 .services .box-container .box:hover{
-   background: #3252DF;
-   color:var(--white);
+   background: #54a0ff;
 }
 
 .services .box-container .box img{
