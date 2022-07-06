@@ -63,7 +63,7 @@
             <h3>Hotel Alila</h3>
             <p>Surakarta, Indonesia</p>
             <p class="harga">Harga : Rp.900.000 / Malam</p>
-            <a href="detail_browseby/detail_1.php" class="btn">lihat detail</a>
+            <a href="detail_browseby/detail_2.php" class="btn">lihat detail</a>
          </div>
       </div>
 

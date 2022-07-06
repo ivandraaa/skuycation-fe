@@ -42,10 +42,10 @@
 <!-- header section ends -->
 
 <!-- home about section starts  -->
-<h1 class="heading-title-detail"> Sheraton Hotel </h1>
+<h1 class="heading-title-detail"> Alila Hotel </h1>
 <section class="home-about">
     <div class="image">
-        <img src="/images/hotel/sheraton.svg" alt="">
+        <img src="/images/browseby/alila.svg" alt="gambar alila">
     </div>
     &emsp;
     <div class="content">
