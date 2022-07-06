@@ -101,6 +101,18 @@ section{
    height: 4.5rem;
 }
 
+.btn-price-back{
+   display: inline-block;
+   background: #32df46;
+   margin-top: 4rem;
+   margin-bottom: 0;
+   color:var(--white);
+   font-size: 1.7rem;
+   padding:1rem 3rem;
+   border-radius:5rem;
+   margin-left: 45%;
+}
+
 .btn:hover{
    background: #152C5B;
 }

@@ -69,42 +69,43 @@
     <h3 class="detail-event">Pilihan Event Yang Tersedia</h3>
         <div class="box-container">
 
-   <div class="box-container">
+        <div class="box-container">
 
-      <div class="box">
-         <div class="image">
-            <img src="/images/event/solo-batik-carnival.svg" alt="">
-         </div>
-         <div class="content">
-            <h3>Solo Batik Karnival</h3>
-            <p>17 Juli 2022</p>
-            <a href="detail_event/detail_event.php" class="btn">Lihat Detail</a>
-         </div>
-      </div>
+            <div class="box">
+                <div class="image">
+                    <img src="/images/event/solo-batik-carnival.svg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Solo Batik Karnival</h3>
+                    <p>17 Juli 2022</p>
+                    <a href="detail_event/detail_event.php" class="btn">Lihat Detail</a>
+                </div>
+            </div>
 
-      <div class="box">
-         <div class="image">
-            <img src="/images/event/upacara-sekaten.svg" alt="">
-         </div>
-         <div class="content">
-            <h3>sekaten</h3>
-            <p>19 Juli 2022</p>
-            <a href="" class="btn">Lihat Detail</a>
-         </div>
-      </div>
+            <div class="box">
+                <div class="image">
+                    <img src="/images/event/upacara-sekaten.svg" alt="">
+                </div>
+                <div class="content">
+                    <h3>sekaten</h3>
+                    <p>19 Juli 2022</p>
+                    <a href="" class="btn">Lihat Detail</a>
+                </div>
+            </div>
 
-      <div class="box">
-         <div class="image">
-            <img src="/images/event/Pasar-malam-solo.svg" alt="">
-         </div>
-         <div class="content">
-            <h3>Pasar Malam</h3>
-            <p>12 September 2022</p>
-            <a href="" class="btn">Lihat Detail</a>
-         </div>
-      </div>
-   </div>
+            <div class="box">
+                <div class="image">
+                    <img src="/images/event/Pasar-malam-solo.svg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Pasar Malam</h3>
+                    <p>12 September 2022</p>
+                    <a href="" class="btn">Lihat Detail</a>
+                </div>
+            </div>
         </div>
+        </div>
+        <a href="/home.php" class="btn-price-back">Kembali</a>
     </section>
     <!-- Sec-2 -->
 

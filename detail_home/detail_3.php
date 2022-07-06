@@ -68,43 +68,43 @@
     <section class="home-packages">
     <h3 class="detail-event">Pilihan Event Yang Tersedia</h3>
         <div class="box-container">
+            <div class="box">
+                <div class="image">
+                    <img src="/images/event/denpasar-festival.svg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Denpasar Festival 2022</h3>
+                    <p>15 Juni 2022</p>
+                    
+                    <a href="" class="btn">Lihat Detail</a>
+                </div>
+            </div>
 
-        <div class="box">
-         <div class="image">
-            <img src="/images/event/denpasar-festival.svg" alt="">
-         </div>
-         <div class="content">
-            <h3>Denpasar Festival 2022</h3>
-            <p>15 Juni 2022</p>
-            
-            <a href="" class="btn">Lihat Detail</a>
-         </div>
-      </div>
+            <div class="box">
+                <div class="image">
+                    <img src="/images/event/sanur_village.svg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Sanur Village Festival</h3>
+                    <p>20 Agustus 2022</p>
+                    
+                    <a href="" class="btn">Lihat Detail</a>
+                </div>
+            </div>
 
-      <div class="box">
-         <div class="image">
-            <img src="/images/event/sanur_village.svg" alt="">
-         </div>
-         <div class="content">
-            <h3>Sanur Village Festival</h3>
-            <p>20 Agustus 2022</p>
-            
-            <a href="" class="btn">Lihat Detail</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="/images/event/bali_art_festival.svg" alt="">
-         </div>
-         <div class="content">
-            <h3>Bali Art Festival</h3>
-            <p>18 Agustus 2022</p>
-            
-            <a href="" class="btn">Lihat Detail</a>
-         </div>
-      </div>
+            <div class="box">
+                <div class="image">
+                    <img src="/images/event/bali_art_festival.svg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Bali Art Festival</h3>
+                    <p>18 Agustus 2022</p>
+                    
+                    <a href="" class="btn">Lihat Detail</a>
+                </div>
+            </div>
         </div>
+        <a href="/home.php" class="btn-price-back">Kembali</a>
     </section>
     <!-- Sec-2 -->
 

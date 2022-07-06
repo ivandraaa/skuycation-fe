@@ -70,39 +70,40 @@
         <div class="box-container">
 
         <div class="box">
-         <div class="image">
-            <img src="/images/event/yogya_gaemalan_fest.svg" alt="">
-         </div>
-         <div class="content">
-            <h3>Yogya Gamelan Fest</h3>
-            <p>5 September 2022</p>
-            
-            <a href="" class="btn">Lihat Detail</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="/images/event/grebeg_syawal.svg" alt="">
-         </div>
-         <div class="content">
-            <h3>Grebeg Syawal</h3>
-            <p>12 Juli 2022</p>
-            <a href="" class="btn">Lihat Detail</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="/images/event/ngayogjazz.svg" alt="">
-         </div>
-         <div class="content">
-            <h3>NgayogJazz</h3>
-            <p>3 Agustus 2022</p>
-            <a href="" class="btn">Lihat Detail</a>
-         </div>
-      </div>
+            <div class="image">
+                <img src="/images/event/yogya_gaemalan_fest.svg" alt="">
+            </div>
+            <div class="content">
+                <h3>Yogya Gamelan Fest</h3>
+                <p>5 September 2022</p>
+                
+                <a href="" class="btn">Lihat Detail</a>
+            </div>
         </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="/images/event/grebeg_syawal.svg" alt="">
+            </div>
+            <div class="content">
+                <h3>Grebeg Syawal</h3>
+                <p>12 Juli 2022</p>
+                <a href="" class="btn">Lihat Detail</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="/images/event/ngayogjazz.svg" alt="">
+            </div>
+            <div class="content">
+                <h3>NgayogJazz</h3>
+                <p>3 Agustus 2022</p>
+                <a href="" class="btn">Lihat Detail</a>
+            </div>
+        </div>  
+        </div>
+        <a href="/home.php" class="btn-price-back">Kembali</a>
     </section>
     <!-- Sec-2 -->
 

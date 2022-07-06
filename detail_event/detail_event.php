@@ -65,6 +65,7 @@
             sisi Jalan Slamet Riyadi, menikmati keindahan kreasi busana yang ditampilkan 
             peserta parade. </p>    
     </div>
+    <a href="/event.php" class="btn-price-back">Kembali</a>
 </section>
 
 <!-- home about section ends -->
