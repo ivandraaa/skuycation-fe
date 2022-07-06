@@ -75,7 +75,7 @@
             <h3>POP Hotel Solo</h3>
             <p>Surakarta, Indonesia</p>
             <p class="harga">Harga : Rp.200.000 / Malam</p>
-            <a href="book.php" class="btn">lihat detail</a>
+            <a href="detail_browseby/detail_3.php" class="btn">lihat detail</a>
          </div>
       </div>
 
@@ -87,7 +87,7 @@
             <h3>Green Park</h3>
             <p>Surakarta, Indonesia</p>
             <p class="harga">Harga : Rp.400.000 / Malam</p>
-            <a href="book.php" class="btn">lihat detail</a>
+            <a href="detail_browseby/detail_4.php" class="btn">lihat detail</a>
          </div>
       </div>
    </div>
@@ -105,7 +105,7 @@
             <h3>Bali True Living</h3>
             <p>Denpasar, Indonesia</p>
             <p class="harga">Harga : Rp.700.000 / Malam</p>
-            <a href="book.php" class="btn">lihat detail</a>
+            <a href="detail_browseby/detail_5.php" class="btn">lihat detail</a>
          </div>
       </div>
 
