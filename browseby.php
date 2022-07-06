@@ -99,7 +99,7 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/browseby/amaris.svg" alt="">
+            <img src="images/browseby/balitrue.svg" alt="">
          </div>
          <div class="content">
             <h3>Bali True Living</h3>
