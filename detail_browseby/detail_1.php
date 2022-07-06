@@ -45,7 +45,7 @@
 <h1 class="heading-title-detail"> Alila Hotel </h1>
 <section class="home-about">
     <div class="image">
-        <img src="/images/browseby/alila.svg" alt="">
+        <img src="/images/browseby/alila.svg" alt="gambar alila">
     </div>
     &emsp;
     <div class="content">
