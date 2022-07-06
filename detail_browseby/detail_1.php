@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Detail | Skuycation</title>
-    <link rel="shortcut icon" href="images/icon-logo.png">
+    <link rel="shortcut icon" href="/images/icon-logo.png">
 
     <!-- swiper css link  -->
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -42,10 +42,10 @@
 <!-- header section ends -->
 
 <!-- home about section starts  -->
-<h1 class="heading-title-detail"> Sheraton Grand </h1>
+<h1 class="heading-title-detail"> Alila Hotel </h1>
 <section class="home-about">
     <div class="image">
-        <img src="/images/hotel/sheraton.svg" alt="">
+        <img src="/images/browseby/alila.svg" alt="">
     </div>
     &emsp;
     <div class="content">
@@ -56,6 +56,7 @@
         <img style="padding-right: 1em" src="/images/hotel/ic_tv.svg" alt="">
         <img style="padding-right: 1em" src="/images/hotel/ic_wifi.svg" alt=""><br><br>
         <a href="book.php" class="btn">book now</a>
+        <a class="btn-price">Rp 900.000 / Malam</a>
     </div>
 </section>
 
