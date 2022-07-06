@@ -22,7 +22,7 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">travel.</a>
+   <a href="home.php" class="logo"><b>Skuy</b><c>cation.</c></a>
 
    <nav class="navbar">
       <a href="home.php">home</a>
