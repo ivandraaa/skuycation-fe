@@ -116,8 +116,8 @@
             </div>
             <div class="content">
                <h3>Sheraton Grand</h3>
-               <p>Jakarta, Indonesia</p>
-               <a href="book.php" class="btn">book now</a>
+               <p>Surakarta, Indonesia</p>
+               <a href="detail_browseby/detail_1.php" class="btn">lihat detail</a>
             </div>
          </div>
 
@@ -127,7 +127,7 @@
             </div>
             <div class="content">
                <h3>Ocean Land</h3>
-               <p>Bandung, Indonesia</p>
+               <p>Denpasar, Indonesia</p>
                <a href="book.php" class="btn">book now</a>
             </div>
          </div>
@@ -138,7 +138,7 @@
             </div>
             <div class="content">
                <h3>Stark House</h3>
-               <p>Malang, Indonesia</p>
+               <p>Jogja, Indonesia</p>
                <a href="book.php" class="btn">book now</a>
             </div>
          </div>
@@ -158,7 +158,7 @@
             </div>
             <div class="content">
                <h3>Green Park</h3>
-               <p>Tangerang, Indonesia</p>
+               <p>Surakarta, Indonesia</p>
                <a href="book.php" class="btn">book now</a>
             </div>
          </div>
@@ -169,7 +169,7 @@
             </div>
             <div class="content">
                <h3>Grand Cakra Hotel</h3>
-               <p>Malang, Indonesia</p>
+               <p>Denpasar, Indonesia</p>
                <a href="book.php" class="btn">book now</a>
             </div>
          </div>
@@ -180,7 +180,7 @@
             </div>
             <div class="content">
                <h3>SIlver Rain</h3>
-               <p>Bandung Indonesia</p>
+               <p>Jogja, Indonesia</p>
                <a href="book.php" class="btn">book now</a>
             </div>
          </div>
