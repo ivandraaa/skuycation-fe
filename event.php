@@ -57,34 +57,117 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-1.jpg" alt="">
+            <img src="images/solo-batik-carnival.svg" alt="">
          </div>
          <div class="content">
-            <h3>Hotel Alila</h3>
-            <p>Surakarta, Indonesia</p>
-            <a href="book.php" class="btn">book now</a>
+            <h3>Solo Batik Karnival</h3>
+            <p>17 Juli 2022</p>
+            <a href="" class="btn">Lihat Detail</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-2.jpg" alt="">
+            <img src="images/upacara-sekaten.svg" alt="">
          </div>
          <div class="content">
-            <h3>Hotel Alila</h3>
-            <p>Surakarta, Indonesia</p>
-            <a href="book.php" class="btn">book now</a>
+            <h3>sekaten</h3>
+            <p>19 Juli 2022</p>
+            <a href="" class="btn">Lihat Detail</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-3.jpg" alt="">
+            <img src="images/Pasar-malam-solo.svg" alt="">
          </div>
          <div class="content">
-            <h3>Hotel Alila</h3>
-            <p>Surakarta, Indonesia</p>
-            <a href="book.php" class="btn">book now</a>
+            <h3>Pasar Malam</h3>
+            <p>12 September 2022</p>
+            <a href="" class="btn">Lihat Detail</a>
+         </div>
+      </div>
+   </div>
+   <div class="div-sekat">
+      <img src="images/icon-3.svg" alt="">
+      <h3 class="heading-sekat">Kota Denpasar</h3>
+   </div>
+   <div class="box-container">
+
+      <div class="box">
+         <div class="image">
+            <img src="images/denpasar-festival.svg" alt="">
+         </div>
+         <div class="content">
+            <h3>Denpasar Festival 2022</h3>
+            <p>15 Juni 2022</p>
+            
+            <a href="" class="btn">Lihat Detail</a>
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="image">
+            <img src="images/sanur_village.svg" alt="">
+         </div>
+         <div class="content">
+            <h3>Sanur Village Festival</h3>
+            <p>20 Agustus 2022</p>
+            
+            <a href="" class="btn">Lihat Detail</a>
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="image">
+            <img src="images/denpasar-festival.svg" alt="">
+         </div>
+         <div class="content">
+            <h3>Bali Art Festival</h3>
+            <p>18 Agustus 2022</p>
+            
+            <a href="" class="btn">Lihat Detail</a>
+         </div>
+      </div>
+   </div>
+   
+   <div class="div-sekat">
+      <img src="images/icon-3.svg" alt="">
+      <h3 class="heading-sekat">Kota Yogyakarta</h3>
+   </div>
+   <div class="box-container">
+
+      <div class="box">
+         <div class="image">
+            <img src="images/yogya_gaemalan_fest.svg" alt="">
+         </div>
+         <div class="content">
+            <h3>Yogya Gamelan Fest</h3>
+            <p>5 September 2022</p>
+            
+            <a href="" class="btn">Lihat Detail</a>
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="image">
+            <img src="images/grebeg_syawal.svg" alt="">
+         </div>
+         <div class="content">
+            <h3>Grebeg Syawal</h3>
+            <p>12 Juli 2022</p>
+            <a href="" class="btn">Lihat Detail</a>
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="image">
+            <img src="images/ngayogjazz.svg" alt="">
+         </div>
+         <div class="content">
+            <h3>NgayogJazz</h3>
+            <p>3 Agustus 2022</p>
+            <a href="" class="btn">Lihat Detail</a>
          </div>
       </div>
    </div>
