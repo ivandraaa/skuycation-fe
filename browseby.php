@@ -46,6 +46,8 @@
 
    <div class="div-cont">
       <h3 class="heading-bwa">Pilih Kota Tujuan Wisata Anda</h3>
+      <p>Kami menyediakan berbagai macam tempat penginapan dari 
+         berbagai kota dengan penawaran harga yang spesial.</p>
    </div>
 
    <div class="box-container">
@@ -66,8 +68,8 @@
             <img src="images/img-2.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Hotel Alila</h3>
+            <p>Surakarta, Indonesia</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
@@ -77,8 +79,8 @@
             <img src="images/img-3.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Hotel Alila</h3>
+            <p>Surakarta, Indonesia</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
@@ -88,8 +90,8 @@
             <img src="images/img-4.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Hotel Alila</h3>
+            <p>Surakarta, Indonesia</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
@@ -99,8 +101,8 @@
             <img src="images/img-5.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Hotel Alila</h3>
+            <p>Surakarta, Indonesia</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
@@ -110,8 +112,9 @@
             <img src="images/img-6.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Hotel Alila</h3>
+            <p>Surakarta, Indonesia</p>
+            <p>Harga : Rp.200.000 / Malam</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
