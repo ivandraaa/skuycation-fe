@@ -62,7 +62,7 @@
          <div class="content">
             <h3>Solo Batik Karnival</h3>
             <p>17 Juli 2022</p>
-            <a href="" class="btn">Lihat Detail</a>
+            <a href="detail_event/detail_event.php" class="btn">Lihat Detail</a>
          </div>
       </div>
 
@@ -120,7 +120,7 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/event/denpasar-festival.svg" alt="">
+            <img src="images/event/bali_art_festival.svg" alt="">
          </div>
          <div class="content">
             <h3>Bali Art Festival</h3>

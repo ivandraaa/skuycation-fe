@@ -117,7 +117,7 @@
             <div class="content">
                <h3>Sheraton Grand</h3>
                <p>Surakarta, Indonesia</p>
-               <a href="detail_browseby/detail_1.php" class="btn">lihat detail</a>
+               <a href="detail_home/detail_1.php" class="btn">lihat detail</a>
             </div>
          </div>
 
@@ -128,7 +128,7 @@
             <div class="content">
                <h3>Ocean Land</h3>
                <p>Denpasar, Indonesia</p>
-               <a href="book.php" class="btn">book now</a>
+               <a href="detail_home/detail_2.php" class="btn">lihat detail</a>
             </div>
          </div>
          
@@ -139,7 +139,7 @@
             <div class="content">
                <h3>Stark House</h3>
                <p>Jogja, Indonesia</p>
-               <a href="book.php" class="btn">book now</a>
+               <a href="detail_home/detail_3.php" class="btn">lihat detail</a>
             </div>
          </div>
       </div>
@@ -159,7 +159,7 @@
             <div class="content">
                <h3>Green Park</h3>
                <p>Surakarta, Indonesia</p>
-               <a href="book.php" class="btn">book now</a>
+               <a href="detail_home/detail_4.php" class="btn">lihat detail</a>
             </div>
          </div>
 
@@ -170,7 +170,7 @@
             <div class="content">
                <h3>Grand Cakra Hotel</h3>
                <p>Denpasar, Indonesia</p>
-               <a href="book.php" class="btn">book now</a>
+               <a href="detail_home/detail_5.php" class="btn">lihat detail</a>
             </div>
          </div>
          
@@ -181,7 +181,7 @@
             <div class="content">
                <h3>SIlver Rain</h3>
                <p>Jogja, Indonesia</p>
-               <a href="book.php" class="btn">book now</a>
+               <a href="detail_home/detail_6.php" class="btn">lihat detail</a>
             </div>
          </div>
       </div>
