@@ -57,7 +57,7 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/solo-batik-carnival.svg" alt="">
+            <img src="images/event/solo-batik-carnival.svg" alt="">
          </div>
          <div class="content">
             <h3>Solo Batik Karnival</h3>
@@ -68,7 +68,7 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/upacara-sekaten.svg" alt="">
+            <img src="images/event/upacara-sekaten.svg" alt="">
          </div>
          <div class="content">
             <h3>sekaten</h3>
@@ -79,7 +79,7 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/Pasar-malam-solo.svg" alt="">
+            <img src="images/event/Pasar-malam-solo.svg" alt="">
          </div>
          <div class="content">
             <h3>Pasar Malam</h3>
@@ -96,7 +96,7 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/denpasar-festival.svg" alt="">
+            <img src="images/event/denpasar-festival.svg" alt="">
          </div>
          <div class="content">
             <h3>Denpasar Festival 2022</h3>
@@ -108,7 +108,7 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/sanur_village.svg" alt="">
+            <img src="images/event/sanur_village.svg" alt="">
          </div>
          <div class="content">
             <h3>Sanur Village Festival</h3>
@@ -120,7 +120,7 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/denpasar-festival.svg" alt="">
+            <img src="images/event/denpasar-festival.svg" alt="">
          </div>
          <div class="content">
             <h3>Bali Art Festival</h3>
@@ -139,7 +139,7 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/yogya_gaemalan_fest.svg" alt="">
+            <img src="images/event/yogya_gaemalan_fest.svg" alt="">
          </div>
          <div class="content">
             <h3>Yogya Gamelan Fest</h3>
@@ -151,7 +151,7 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/grebeg_syawal.svg" alt="">
+            <img src="images/event/grebeg_syawal.svg" alt="">
          </div>
          <div class="content">
             <h3>Grebeg Syawal</h3>
@@ -162,7 +162,7 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/ngayogjazz.svg" alt="">
+            <img src="images/event/ngayogjazz.svg" alt="">
          </div>
          <div class="content">
             <h3>NgayogJazz</h3>
