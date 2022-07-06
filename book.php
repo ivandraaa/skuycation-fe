@@ -53,9 +53,9 @@
    <form action="book_form.php" method="post" class="book-form">
 
       <div class="flex">
-         <div class="inputBox">
+      <div class="inputBox">
             <span>nama hotel :</span>
-            <input type="text" placeholder="masukan nama hotel" name="name_hotel" autocomplete="off">
+            <input type="text" placeholder="masukan nama hotel" name="nama_hotel" autocomplete="off">
          </div>
          <div class="inputBox">
             <span>tipe kamar :</span>
@@ -78,7 +78,7 @@
             <input type="text" placeholder="masukan alamat" name="address" autocomplete="off">
          </div>
          <div class="inputBox">
-            <span>Kota tujuan :</span>"
+            <span>Kota tujuan :</span>
             <input type="text" placeholder="kota yang anda kunjungi" name="location" autocomplete="off">
          </div>
          <div class="inputBox">
