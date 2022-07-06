@@ -3,6 +3,8 @@
    $connection = mysqli_connect('localhost','root','','skuycation');
 
    if(isset($_POST['send'])){
+      $name_hotel = $_POST['name_hotel'];
+      $tipe = $_POST['tipe'];
       $name = $_POST['name'];
       $email = $_POST['email'];
       $phone = $_POST['phone'];
