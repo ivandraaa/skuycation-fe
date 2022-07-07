@@ -150,7 +150,6 @@
     <div class="credit"> copyright <span>skuycation</span> | all rights reserved! </div>
 
 </section>
-
 <!-- footer section ends -->
 
 <!-- swiper js link  -->

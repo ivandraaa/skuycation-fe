@@ -19,37 +19,37 @@
 </head>
 <body>
 
-<!-- header section starts  -->
+   <!-- header section starts  -->
 
 <section class="header">
 
-<a href="home.php" class="logo">
-    <b>Skuy</b><c>cation.</c>
-</a>
+   <a href="home.php" class="logo">
+      <b>Skuy</b><c>cation.</c>
+   </a>
 
-<nav class="navbar">
-    <a href="home.php">home</a>
-    <a href="browseby.php">Browse By</a>
-    <a href="event.php">Event</a>
-    <a href="book.php">book</a>
-    <a href="stories.php">stories</a>
-</nav>
+   <nav class="navbar">
+      <a href="home.php">home</a>
+      <a href="browseby.php">Browse By</a>
+      <a href="event.php">Event</a>
+      <a href="book.php">book</a>
+      <a href="stories.php">stories</a>
+   </nav>
 
-<div id="menu-btn" class="fas fa-bars"></div>
+   <div id="menu-btn" class="fas fa-bars"></div>
 
 </section>
 
-<!-- packages section starts  -->
+   <!-- packages section starts  -->
 
 <section class="home-packages">
 
-    <div class="div-cont">
+   <div class="div-cont">
       <h3 class="heading-bwa">Pilih Event di Kota Wisata Anda</h3>
       <p>Terdapat berbagai macam event menarik yang akan menemani
-        perjalanan wisata Anda.</p>
-    </div>
-    
-    <div class="div-sekat">
+      perjalanan wisata Anda.</p>
+   </div>
+   
+   <div class="div-sekat">
       <img src="images/icon-3.svg" alt="">
       <h3 class="heading-sekat">Kota Surakarta</h3>
    </div>
@@ -171,51 +171,50 @@
          </div>
       </div>
    </div>
-
 </section>
 
-<!-- packages section ends -->
-<!-- footer section starts  -->
+   <!-- packages section ends -->
+   <!-- footer section starts  -->
 
-<section class="footer">
+   <section class="footer">
 
-<div class="box-container">
+   <div class="box-container">
 
-    <div class="box">
-        <h3>quick links</h3>
-        <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
-        <a href="browseby.php"> <i class="fas fa-angle-right"></i> Browse By</a>
-        <a href="event.php"> <i class="fas fa-angle-right"></i> Event</a>
-        <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
-        <a href="stories.php"> <i class="fas fa-angle-right"></i> Stories</a>
-    </div>
+      <div class="box">
+         <h3>quick links</h3>
+         <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
+         <a href="browseby.php"> <i class="fas fa-angle-right"></i> Browse By</a>
+         <a href="event.php"> <i class="fas fa-angle-right"></i> Event</a>
+         <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
+         <a href="stories.php"> <i class="fas fa-angle-right"></i> Stories</a>
+      </div>
 
-    <div class="box">
-        <h3>follow us</h3>
-        <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
-        <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
-        <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
-        <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
-    </div>
+      <div class="box">
+         <h3>follow us</h3>
+         <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
+         <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
+         <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
+         <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
+      </div>
 
-    <div class="box">
-        <h3>contact info</h3>
-        <a href="#"> <i class="fas fa-phone"></i> +62 812-2378-0410 </a>
-        <a href="#"> <i class="fas fa-envelope"></i> skuycation@skuy.com </a>
-        <a href="#"> <i class="fas fa-map"></i> Jawa Tengah, Surakarta - Banyuanyar </a>
-    </div>
-</div>
+      <div class="box">
+         <h3>contact info</h3>
+         <a href="#"> <i class="fas fa-phone"></i> +62 812-2378-0410 </a>
+         <a href="#"> <i class="fas fa-envelope"></i> skuycation@skuy.com </a>
+         <a href="#"> <i class="fas fa-map"></i> Jawa Tengah, Surakarta - Banyuanyar </a>
+      </div>
+   </div>
 
-<div class="credit"> copyright <span>skuycation</span> | all rights reserved! </div>
+   <div class="credit"> copyright <span>skuycation</span> | all rights reserved! </div>
 
-</section>
+   </section>
 
-<!-- footer section ends -->
-<!-- swiper js link  -->
-<script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
+   <!-- footer section ends -->
+   <!-- swiper js link  -->
+   <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
 
-<!-- custom js file link  -->
-<script src="js/script.js"></script>
+   <!-- custom js file link  -->
+   <script src="js/script.js"></script>
 
 </body>
 </html>

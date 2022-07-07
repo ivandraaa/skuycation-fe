@@ -1,5 +1,4 @@
 <?php
-
    $connection = mysqli_connect('localhost','root','','skuycation');
 
    if(isset($_POST['send'])){
@@ -22,5 +21,4 @@
    }else{
       echo 'something went wrong please try again!';
    }
-
 ?>

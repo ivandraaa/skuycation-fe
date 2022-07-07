@@ -43,9 +43,9 @@
 
 <!-- home about section starts  -->
 <h1 class="heading-title-detail"> Solo Batik Karnival </h1>
-<div class="div-cont">
-      <p>Surakata, Indonesia</p>
-    </div>
+<   div class="div-cont">
+        <p>Surakata, Indonesia</p>
+    </>
 <section class="home-about">
     <div class="image">
         <img src="/images/event/solo-batik-c2.svg" alt="">

@@ -680,10 +680,10 @@ section{
 .div-cont p{
    text-align: center;
    margin-bottom: 3rem;
-   line-height: 100%;
+   line-height: 2.5rem;
    text-transform: capitalize;
    color:#B0B0B0;
-   font-size: 1.5rem;
+   font-size: 1.5em;
 }
 
 .div-sekat{

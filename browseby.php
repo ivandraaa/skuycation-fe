@@ -178,22 +178,6 @@
 </section>
 
 <!-- packages section ends -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- footer section starts  -->
 
 <section class="footer">
