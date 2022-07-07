@@ -58,12 +58,13 @@
 
         <form action="/book.php" method="GET">
             <input type="text" name="previews_name" value="Alila Hotel" hidden>
-            <button class="btn-price" type="submit">Book Now</button>
+            <button class="btn" type="submit">Book Now</button>
+            <a class="btn-price">Rp 900.000 / Malam</a>
         </form>
         <!-- <a href="/book.php" class="btn">
             book now
         </a> -->
-        <a class="btn-price">Rp 900.000 / Malam</a>
+        
     </div>
 </section>
 
