@@ -57,10 +57,11 @@
         <img style="padding-right: 1em" src="/images/hotel/ic_wifi.svg" alt=""><br><br>
         <form action="/book.php" method="GET">
             <input type="text" name="previews_name" value="Stark House" hidden>
-            <button class="btn-price" type="submit">Book Now</button>
+            <button class="btn" type="submit">Book Now</button>
+            <a class="btn-price">Rp 500.000 / Malam</a>
         </form>
         <!-- <a href="/book.php" class="btn">book now</a> -->
-        <a class="btn-price">Rp 500.000 / Malam</a>
+        
     </div>
 </section>
 
