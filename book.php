@@ -50,12 +50,16 @@
 
    <h1 class="heading-title">book your trip!</h1>
 
-   <form action="book_form.php" method="post" class="book-form">
+   <form name="formPendaftaran" action="book_form.php" method="post" class="book-form" onsubmit="return validateForm()">
 
       <div class="flex">
-      <div class="inputBox">
+         <div class="inputBox">
             <span>nama hotel :</span>
-            <input type="text" placeholder="masukan nama hotel" name="nama_hotel" id="nama_hotel autocomplete="off">
+            <input type="text" placeholder="masukan nama hotel" name="nama_hotel" id="nama_hotel" autocomplete="off"
+            value=
+            "<?php
+               echo (isset($_GET['previews_name'])) ? $_GET['previews_name'] : '';
+            ?>">
          </div>
          <div class="inputBox">
             <span>tipe kamar :</span>
@@ -103,22 +107,6 @@
 
 <!-- booking section ends -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- footer section starts  -->
 
 <section class="footer">
@@ -155,6 +143,61 @@
 </section>
 
 <!-- footer section ends -->
+
+<script>
+      function validateForm() {
+            if (document.forms["formPendaftaran"]["nama_hotel"].value == "") {
+               alert("Nama Hotel Tidak Boleh Kosong");
+               document.forms["formPendaftaran"]["nama_hotel"].focus();
+               return false;
+            }
+            if (document.forms["formPendaftaran"]["tipe"].value == "") {
+               alert("Tipe Hotel Tidak Boleh Kosong");
+               document.forms["formPendaftaran"]["tipe"].focus();
+               return false;
+            }
+            if (document.forms["formPendaftaran"]["name"].value == "") {
+               alert("Nama Traveller Tidak Boleh Kosong");
+               document.forms["formPendaftaran"]["name"].focus();
+               return false;
+            }
+            if (document.forms["formPendaftaran"]["email"].value == "") {
+               alert("Email Tidak Boleh Kosong");
+               document.forms["formPendaftaran"]["email"].focus();
+               return false;
+            }
+            if (document.forms["formPendaftaran"]["phone"].value == "") {
+               alert("No Hp Tidak Boleh Kosong");
+               document.forms["formPendaftaran"]["phone"].focus();
+               return false;
+            }
+            if (document.forms["formPendaftaran"]["address"].value == "") {
+               alert("Alamat Tidak Boleh Kosong");
+               document.forms["formPendaftaran"]["address"].focus();
+               return false;
+            }
+            if (document.forms["formPendaftaran"]["location"].value == "") {
+               alert("Lokasi Tidak Boleh Kosong");
+               document.forms["formPendaftaran"]["location"].focus();
+               return false;
+            }
+            if (document.forms["formPendaftaran"]["guets"].value == "") {
+               alert("Isian Berapa Tamu Tidak Boleh Kosong");
+               document.forms["formPendaftaran"]["guets"].focus();
+               return false;
+            }
+            if (document.forms["formPendaftaran"]["arrivals"].selectedIndex < 1) {
+               alert("Isi Tanggal Kedatangan Tidak Boleh Kosong");
+               document.forms["formPendaftaran"]["arrivals"].focus();
+               return false;
+            }
+            if (document.forms["formPendaftaran"]["leaving"].selectedIndex < 2) {
+               alert("Isi Tanggal Kehadiran Tidak Boleh Kosong");
+               document.forms["formPendaftaran"]["leaving"].focus();
+               return false;
+            }
+      }
+   </script>
 <!-- swiper js link  -->
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
 

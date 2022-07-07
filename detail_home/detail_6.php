@@ -42,7 +42,7 @@
 <!-- header section ends -->
 
 <!-- home about section starts  -->
-<h1 class="heading-title-detail">SIlver Rain</h1>
+<h1 class="heading-title-detail">Silver Rain</h1>
 <section class="home-about">
     <div class="image">
         <img src="/images/hotel/silver.svg" alt="">
@@ -55,7 +55,12 @@
         <img style="padding-right: 1em" src="/images/hotel/ic_kulkas.svg" alt="">
         <img style="padding-right: 1em" src="/images/hotel/ic_tv.svg" alt="">
         <img style="padding-right: 1em" src="/images/hotel/ic_wifi.svg" alt=""><br><br>
-        <a href="book.php" class="btn">book now</a>
+        <form action="/book.php" method="GET">
+            <input type="text" name="previews_name" value="Silver Rain" hidden>
+            <button class="btn-price" type="submit">Book Now</button>
+        </form>
+        <!-- <a href="/book.php" class="btn">book now</a> -->
+        <a class="btn-price">Rp 300.000 / Malam</a>
     </div>
 </section>
 

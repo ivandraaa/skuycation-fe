@@ -55,7 +55,11 @@
         <img style="padding-right: 1em" src="/images/hotel/ic_kulkas.svg" alt="">
         <img style="padding-right: 1em" src="/images/hotel/ic_tv.svg" alt="">
         <img style="padding-right: 1em" src="/images/hotel/ic_wifi.svg" alt=""><br><br>
-        <a href="/book.php" class="btn">book now</a>
+        <form action="/book.php" method="GET">
+            <input type="text" name="previews_name" value="Pop Hotel Solo" hidden>
+            <button class="btn-price" type="submit">Book Now</button>
+        </form>
+        <!-- <a href="/book.php" class="btn">book now</a> -->
         <a class="btn-price">Rp 200.000 / Malam</a>
     </div>
 </section>
